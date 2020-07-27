@@ -33,35 +33,29 @@ Hi there, I'm <strong>Akhil Nair</strong>, 💻<span style="color:green; ">Front
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
 
 <td align="center" width="20%">
-<span>𝗖𝗦𝗦𝟯</span><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
 </td>
 
 <td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
 </td>
 </tr>
 
 <tr>
 <td width="25%" align="center">
-<span><b><center>ReactJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
 </td>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>NodeJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b>Type Script</b></span><br>
 <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 </td>
 </td>
@@ -69,35 +63,29 @@ Hi there, I'm <strong>Akhil Nair</strong>, 💻<span style="color:green; ">Front
 <tr>
 <tr>
 <td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
 <img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
 </td>
 
 <td align="center" width="20%">
-<span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
 </td>
 
 <td align="center" width="20%">
-<span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Graph QL</center></b></span> 
 <img height=65px src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"> 
 </td>
 
 <td width="25%" align="center">
-<span><b><center>Git</center></b></span> 
 <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
 </td>
 
 <td align="center" width="20%">
-<span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
 </td>
 </td>
