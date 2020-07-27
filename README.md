@@ -1,16 +1,118 @@
-### Hi there 👋
+### Hey 👋, I'm Akhil Nair
 
-<!--
-**akhilxnair/akhilxnair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Hi there, I'm <strong>Akhil Nair</strong>, 💻<span style="color:green; ">Front End Dev</span> and a 👨‍💻 <span style="color:purple; ">Software Engineer</span> 🚀 from <strong>Ahmedabad, India</strong>. I'm a currently working as a <strong>React JS Developer @ <a href="https://www.linkedin.com/company/zuru-tech-india-pvt-ltd/">Zuru Tech India</a></strong>.
+</p>
 
-Here are some ideas to get you started:
+<div style="text-align:center">
+  <p><strong>I'm a Professional Night Owl</strong></p>
+  <img align="center" height="300px" width="45%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="center" height="300px" width="45%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<div style="text-align:center">
+  <h3>Talking about Personal Stuffs:</h3>
+</div>
+<br>
+
+* 👨🏽‍💻 I completed my Bachelors in Information Technology ( B. Tech ) in 2018. 
+* 💼 I started as a React JS Developer from Oct, 2018.
+* 🌱 I currently learning Backend Technologies ( Node JS, Express, MongoDB, Mongoose).
+* 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..; 
+* 💬 Ask me about anything, I am happy to help; 
+* 📫 Please email via 4khiln4ir@gmail.com to reach me.
+* 📝 See my [Resume](https://drive.google.com/file/d/13Z7FSk4gyTi4VJxy5TYKqZUWg5AtWKc3/view) to get more info.
+
+<br>
+<div style="text-align:center">
+  <h3>My Weapon Stack:</h3>
+</div>
+
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>HTML</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
+
+<td align="center" width="20%">
+<span>𝗖𝗦𝗦𝟯</span><br>
+<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+</td>
+
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+</td>
+</tr>
+
+<tr>
+<td width="25%" align="center">
+<span><b><center>ReactJS</center></b></span> 
+<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+</td>
+</td>
+
+<td align="center" width="20%">
+<span><b><center>NodeJS</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b>Type Script</b></span><br>
+<img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+</td>
+</td>
+</tr>
+<tr>
+<tr>
+<td align="center" width="20%">
+<span><b><center>MongoDB</center></b></span> 
+<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
+</td>
+
+<td align="center" width="20%">
+<span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br>
+<img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+</td>
+
+<td align="center" width="20%">
+<span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br>
+<img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Graph QL</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"> 
+</td>
+
+<td width="25%" align="center">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+</td>
+</td>
+
+<td align="center" width="20%">
+<span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br>
+<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+</td>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+### Reach out to me 👓
+
+|<a href="https://hritik5102.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a>|
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|**[Akhil Nair](https://akhilxnair.github.io/portfolio)**|
+|<a href="https://github.com/akhilxnair"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/AkhilxNair"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/akhilxnair/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
+
+![Akhil Nair's github stats](https://github-readme-stats.vercel.app/api?username=akhilxnair&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+⭐️ From [AkhilxNair](https://github.com/akhilxnair)
