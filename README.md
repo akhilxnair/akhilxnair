@@ -18,7 +18,7 @@ Hi there, I'm <strong>Akhil Nair</strong>, 💻<span style="color:green; ">Front
 
 * 👨🏽‍💻 I completed my Bachelors in Information Technology ( B. Tech ) in 2018. 
 * 💼 I started as a React JS Developer from Oct, 2018.
-* 🌱 I currently learning Backend Technologies ( Node JS, Express, MongoDB, Mongoose).
+* 🌱 I'm currently learning Backend Technologies ( Node JS, Express, MongoDB, Mongoose).
 * 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..; 
 * 💬 Ask me about anything, I am happy to help; 
 * 📫 Please email via 4khiln4ir@gmail.com to reach me.
