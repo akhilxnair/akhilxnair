@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Akhil Nair
 
 <p>
-Hi there, I'm <strong>Akhil Nair</strong>, 💻<span style="color:green; ">Front End Dev</span> and a 👨‍💻 <span style="color:purple; ">Software Engineer</span> 🚀 from <strong>Ahmedabad, India</strong>. I'm a currently working as a <strong>React JS Developer @ <a href="https://www.linkedin.com/company/zuru-tech-india-pvt-ltd/">Zuru Tech India</a></strong>.
+Hi there, I'm <strong>Akhil Nair</strong>, 💻<span style="color:green; ">Front End Dev</span> and a 👨‍💻 <span style="color:purple; ">Software Engineer</span> 🚀 from <strong>Ahmedabad, India</strong>. I'm a currently working as a <strong>React JS Developer @ <a href="https://fampay.in/">Fampay</a></strong>.
 </p>
 
 <div style="text-align:center">
