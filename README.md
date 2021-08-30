@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Akhil Nair
 
 <p>
-Hi there, I'm <strong>Akhil Nair</strong>, 💻<span style="color:green; ">Front End Dev</span> and a 👨‍💻 <span style="color:purple; ">Software Engineer</span> 🚀 from <strong>Ahmedabad, India</strong>. I'm a currently working as a <strong>React JS Developer @ <a href="https://fampay.in/">Fampay</a></strong>.
+Hi there, I'm <strong>Akhil Nair</strong>, 💻<span style="color:green; ">Front End Dev</span> and a 👨‍💻 <span style="color:purple; ">Software Engineer</span> 🚀 from <strong>Ahmedabad, India</strong>. I'm a currently working as a <strong>Frontend Engineer @ <a href="https://fampay.in/">Fampay</a></strong>.
 </p>
 
 <div style="text-align:center">
@@ -17,12 +17,10 @@ Hi there, I'm <strong>Akhil Nair</strong>, 💻<span style="color:green; ">Front
 <br>
 
 * 👨🏽‍💻 I completed my Bachelors in Information Technology ( B. Tech ) in 2018. 
-* 💼 I started as a React JS Developer from Oct, 2018.
-* 🌱 I'm currently learning Backend Technologies ( Node JS, Express, MongoDB, Mongoose).
-* 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..; 
+* 💼 I started as a Frontend Developer from Oct, 2018.
+* 🌱 I'm currently learning Backend Technologies.
 * 💬 Ask me about anything, I am happy to help; 
 * 📫 Please email via 4khiln4ir@gmail.com to reach me.
-* 📝 See my [Resume](https://drive.google.com/file/d/13Z7FSk4gyTi4VJxy5TYKqZUWg5AtWKc3/view) to get more info.
 
 <br>
 <div style="text-align:center">
@@ -98,7 +96,7 @@ Hi there, I'm <strong>Akhil Nair</strong>, 💻<span style="color:green; ">Front
 
 |<a href="https://akhilnair.site/"><img src="https://www.programming-hero.com/blog/assets/images/blog/blog-23-start-earning.png" width="150px" height="150px" /></a>|
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|**[Akhil Nair](https://akhilxnair.github.io/portfolio)**|
+|**[Akhil Nair](https://akhilnair.site/)**|
 |<a href="https://github.com/akhilxnair"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/AkhilxNair"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/akhilxnair/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
 
 ![Akhil Nair's github stats](https://github-readme-stats.vercel.app/api?username=akhilxnair&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
