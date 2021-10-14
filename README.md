@@ -24,7 +24,7 @@ Hi there, I'm <strong>Akhil Nair</strong>, 💻<span style="color:green; ">Front
 
 <br>
 <div style="text-align:center">
-  <h3>My Weapon Stack:</h3>
+  <h3>My Tech Stack:</h3>
 </div>
 
 <table>
