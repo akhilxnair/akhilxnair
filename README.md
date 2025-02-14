@@ -94,7 +94,7 @@ Hi there, I'm <strong>Akhil Nair</strong>, 💻<span style="color:green; ">Front
 
 ### Reach out to me 👓
 
-|<a href="https://akhilnair.site/"><img src="https://www.programming-hero.com/blog/assets/images/blog/blog-23-start-earning.png" width="150px" height="150px" /></a>|
+|<a href="https://akhilnair.in/"><img src="https://www.programming-hero.com/blog/assets/images/blog/blog-23-start-earning.png" width="150px" height="150px" /></a>|
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |**[Akhil Nair](https://akhilnair.site/)**|
 |<a href="https://github.com/akhilxnair"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/AkhilxNair"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/akhilxnair/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
